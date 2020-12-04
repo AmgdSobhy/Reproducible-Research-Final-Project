@@ -2,7 +2,9 @@
 title: "Reproducible-Research-Final-Project"
 author: "Amgd Sobhy"
 date: "12/4/2020"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
